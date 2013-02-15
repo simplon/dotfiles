@@ -1,0 +1,5 @@
+[user]
+	name = Jason PT Ng
+	email = jason@simplonlabs.com
+[credential]
+	helper = cache
