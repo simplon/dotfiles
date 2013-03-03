@@ -5,6 +5,6 @@ Repository of dotfiles used personally
 
 Installation:
 
-- Clone Repo
-- Setup Soft Links (irssi seems to require hardlink)
+- Run setup.sh
+- Setup additional Soft Links if required (irssi seems to require hardlink)
 - Change irssi password
