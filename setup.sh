@@ -33,8 +33,6 @@ sudo apt-get install libssl-dev zlib1g-dev
 
 echo "Checking out rbenv and setting up environment.."
 git clone git://github.com/sstephenson/rbenv.git ~/.rbenv
-echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.zshrc
-echo 'eval "$(rbenv init -)"' >> ~/.zshrc
 echo "Checking out ruby-build.."
 git clone git://github.com/sstephenson/ruby-build.git ~/.rbenv/plugins/ruby-build
 echo "rbenv done and configured. pls install new ruby version i.e. rbenv install 2.0.0-p0"
