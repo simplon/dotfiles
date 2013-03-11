@@ -10,6 +10,7 @@ ZSH_THEME="robbyrussell"
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+alias sshpi="ssh -p 8022 pi@192.168.1.100 -t tmux attach"
 
 # Set to this to use case-sensitive completion
 # CASE_SENSITIVE="true"
