@@ -1,6 +1,6 @@
 #!/bin/sh
 # Setup Script 
-# Jason Ng PT <jason@simplonlabs.com>
+# Jason Ng PT <me@jasonngpt.com>
 
 clear
 echo "Welcome to Setup Script"
